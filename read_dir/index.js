@@ -65,7 +65,7 @@
  */
 
 const fs = require('fs');
-const _ = require('savvy_readDir/node_modules/lodash');
+const _ = require('lodash');
 
 class READDIR {
 
